@@ -14,9 +14,11 @@ Source AMD HIS: [https://rocm.docs.amd.com/projects/install-on-windows/en/develo
   * 🔗: [https://github.com/vladmandic/automatic/wiki/ZLUDA#replace-hip-sdk-library-files-for-unsupported-gpu-architectures](https://github.com/vladmandic/automatic/wiki/ZLUDA#replace-hip-sdk-library-files-for-unsupported-gpu-architectures)
 * Установить Automatic 1111 (**SD.Next** edition)
   * 🔗: [https://github.com/vladmandic/automatic/wiki/ZLUDA#install-or-update-sdnext](https://github.com/vladmandic/automatic/wiki/ZLUDA#install-or-update-sdnext)
-  * `git clone https://github.com/vladmandic/automatic`\
-    `cd automatic`\
-    `webui.bat --use-zluda --debug --autolaunch`
+  ```bash
+  git clone https://github.com/vladmandic/automatic
+  cd automatic
+  webui.bat --use-zluda --debug --autolaunch
+  ```
 
 
 
