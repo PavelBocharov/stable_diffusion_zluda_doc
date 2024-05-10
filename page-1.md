@@ -33,7 +33,14 @@ description: Немного информации.
 
 Это небольшие обученные модели для Stable Diffusion, которые вносят дополнительные изменения в генерацию изображений и используются вместе со стандартными моделями.
 
+Надо внимательно подбирать, т.к. LoRA может быть не совместима с моделью (тупо не работает).
 
+Пример:
+
+* Модель: [https://civitai.com/models/4201/realistic-vision-v60-b1](https://civitai.com/models/4201/realistic-vision-v60-b1)
+* LoRA: [https://civitai.com/models/8729?modelVersionId=11101](https://civitai.com/models/8729?modelVersionId=11101)
+
+<figure><img src=".gitbook/assets/lora.jpg" alt=""><figcaption><p>Три разных прогона и +- один результат</p></figcaption></figure>
 
 ## Источники
 
