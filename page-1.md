@@ -10,7 +10,7 @@ description: Немного информации.
   * SakushiMix: [https://civitai.com/models/78056/sakushimix-finished](https://civitai.com/models/78056/sakushimix-finished)
   * AniVerse: [https://civitai.com/models/107842?modelVersionId=428028](https://civitai.com/models/107842?modelVersionId=428028)
 
-<figure><img src=".gitbook/assets/MyCollages(1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MyCollages(1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 * Формат:&#x20;
   * **ckpt (pickle tensor)** - это стандартный формат для моделей, которые мы используем с SD. Их минус в том, что при желании в файл можно запихнуть вредоносный код.
@@ -19,11 +19,11 @@ description: Немного информации.
 
     * Чем больше тем точнее расчеты, но нужно больше памяти
 
-    <figure><img src=".gitbook/assets/fp16,32.jpg" alt=""><figcaption><p>Но не все так прекрасно как на картинке :)</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/fp16,32.jpg" alt="" width="563"><figcaption><p>Но не все так прекрасно как на картинке :)</p></figcaption></figure>
 
     * Мой тест - разница ну ХЗ
 
-    <figure><img src=".gitbook/assets/MyCollages.jpg" alt=""><figcaption><p>Слева fp16,справа fp32</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/MyCollages.jpg" alt="" width="480"><figcaption><p>Слева fp16,справа fp32</p></figcaption></figure>
 * **EMA** и **no-EMA** (Exponential Moving Averaging)- весы обучения, основывалось ли тренировка на предыдущих результатах.
 * **Pruned** - как понял, облегченная модель.
 * **VAE** (Variational AutoEncoder) - модель для img -> latent space -> img, где в латентном состоянии нейросети ищет пересечение, обрабатывается и перегоняется опять в изображение.
@@ -40,7 +40,7 @@ description: Немного информации.
 * Модель: [https://civitai.com/models/4201/realistic-vision-v60-b1](https://civitai.com/models/4201/realistic-vision-v60-b1)
 * LoRA: [https://civitai.com/models/8729?modelVersionId=11101](https://civitai.com/models/8729?modelVersionId=11101)
 
-<figure><img src=".gitbook/assets/lora.jpg" alt=""><figcaption><p>Три разных прогона и +- один результат</p></figcaption></figure>
+<figure><img src=".gitbook/assets/lora.jpg" alt="" width="563"><figcaption><p>Три разных прогона и +- один результат</p></figcaption></figure>
 
 ## Источники
 
