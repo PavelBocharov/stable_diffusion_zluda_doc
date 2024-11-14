@@ -26,7 +26,7 @@ description: Немного информации.
 
     * Мой тест - разница ну ХЗ
 
-    <figure><img src=".gitbook/assets/MyCollages.jpg" alt="" width="480"><figcaption><p>Слева fp16,справа fp32</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/MyCollages (2).jpg" alt="" width="480"><figcaption><p>Слева fp16,справа fp32</p></figcaption></figure>
 * **EMA** и **no-EMA** (Exponential Moving Averaging)- весы обучения, основывалось ли тренировка на предыдущих результатах.
 * **Pruned** - как понял, облегченная модель.
 * **VAE** (Variational AutoEncoder) - модель для img -> latent space -> img, где в латентном состоянии нейросети ищет пересечение, обрабатывается и перегоняется опять в изображение.

@@ -6,6 +6,9 @@
 ## Генерация
 
 * [Text2Img](generaciya/text2img.md)
+* [Img2Img & resize](generaciya/img2img-and-resize.md)
+* [Detailer](generaciya/detailer.md)
+* [Шпаргалки](generaciya/shpargalki.md)
 
 ***
 
