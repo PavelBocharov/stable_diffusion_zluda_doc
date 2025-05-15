@@ -17,8 +17,21 @@ description: Генерация текста в изображение
 
 По сути вся генерация построена на тегах.
 
-* Promnt:  `solo, 1man, red t-shirt, blue sports trousers, run in forest, full length, <lora:Concept Art Ultimatum Style LoRA_Pony XL v6:1.0> digital art, <lora:SDXL_Dices_Mega_Detail_v1:1.0> highdetail, <lora:Semi-real pretty fantasy - XL pony v2_0:0.7>,`&#x20;
-* Negative promt: `easynegative, 3d, imperfect eyes, deformed pupils, deformed iris, bad proportions, bad anatomy, deformed hands, deformed eyes, deformed face, text, watermark,`
+* Promnt:&#x20;
+
+```
+solo, 1man, red t-shirt, blue sports trousers, run in forest, full length, 
+<lora:Concept Art Ultimatum Style LoRA_Pony XL v6:1.0> digital art, 
+<lora:SDXL_Dices_Mega_Detail_v1:1.0> highdetail, 
+<lora:Semi-real pretty fantasy - XL pony v2_0:0.7>, 
+```
+
+* Negative promt:&#x20;
+
+```
+easynegative, 3d, imperfect eyes, deformed pupils, deformed iris, bad proportions, bad anatomy, deformed hands, deformed eyes, deformed face, text, watermark, 
+```
+
 * Model: `SDXL`
 * Size: `768x1024`
 
