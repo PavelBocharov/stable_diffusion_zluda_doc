@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Установка (AMD HIS + ZLUDA)](README.md)
+* [Установка](README.md)
 * [Models, VAE и LoRA](page-1.md)
 
 ## Генерация
